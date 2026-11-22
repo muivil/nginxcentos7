@@ -43,10 +43,8 @@ configure arguments: --prefix=/etc/nginx --sbin-path=/usr/sbin/nginx --conf-path
 --param=ssp-buffer-size=4 -grecord-gcc-switches -m64 -mtune=generic'
 ```
 ## Установка
-Скачайте пакет
-```
-wget [https://github.com/muivil/nginxcentos7/blob/main/bx-nginx-1.30.7-0.el7.ngx.x86_64.rpm](https://github.com/muivil/nginxcentos7/releases/download/bx-nginx-1.30.7-0.el7.ngx.x86_64/bx-nginx-1.30.7-0.el7.ngx.x86_64.rpm)
-```
+Скачайте пакет в releases
+
 Обновление можно сделать так
 ```
 rpm -Uvh bx-nginx-1.30.7-0.el7.ngx.x86_64.rpm
