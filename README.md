@@ -45,7 +45,7 @@ configure arguments: --prefix=/etc/nginx --sbin-path=/usr/sbin/nginx --conf-path
 ## Установка
 Скачайте пакет
 ```
-wget https://github.com/muivil/nginxcentos7/blob/main/bx-nginx-1.30.7-0.el7.ngx.x86_64.rpm
+wget [https://github.com/muivil/nginxcentos7/blob/main/bx-nginx-1.30.7-0.el7.ngx.x86_64.rpm](https://github.com/muivil/nginxcentos7/releases/download/bx-nginx-1.30.7-0.el7.ngx.x86_64/bx-nginx-1.30.7-0.el7.ngx.x86_64.rpm)
 ```
 Обновление можно сделать так
 ```
